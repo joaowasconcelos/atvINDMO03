@@ -11,7 +11,7 @@ export default function Home() {
             </View>
 
             <View>
-                <Text style={{ fontSize: 19, textAlign: "center" }}>Joao Victor Nascimento Wasconcelos</Text>
+                <Text style={{ fontSize: 19, textAlign: "center" }}>João Victor Nascimento Wasconcelos</Text>
                 <Text style={{ fontSize: 19, textAlign: "center" }}>Sumaré,30/01/2024</Text>
                 <Text style={{ fontSize: 19, textAlign: "center" }}>Escola SENAI Celso Charuri</Text>
                 <Text style={{ fontSize: 19, textAlign: "center" }}>Técnico em Desenvolvimento de Sistemas</Text>
